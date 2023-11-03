@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.componentes</groupId>
-	<artifactId>landyard</artifactId>
+	<artifactId>LanyardBlog</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>landyard</name>
 	<description>Proyecto de Componentes</description>
